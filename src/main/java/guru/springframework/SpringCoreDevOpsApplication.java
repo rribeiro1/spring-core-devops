@@ -8,6 +8,6 @@ public class SpringCoreDevOpsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
-		//this is a whitespace change by Rafael Ribeiro
+		//this is a whitespace change by Rafael Ribeiro 2
 	}
 }
